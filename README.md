@@ -10,6 +10,7 @@ The hot water temperature, cold water flow rate, and temperature are fixed.
 The tank's initial temperature is between cold and hot water. 
 Tank and accumulator temperatures are equal and unaffected by accumulator water due to its negligible volume. The specific heat of tank water is constant and matches hot and cold water inputs.
 <br>
+![Image 1](images/system.jpg)
 ۀ <>M<>
 H1 = Height of the water in the tank
 <br>
