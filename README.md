@@ -52,4 +52,7 @@ Height of the water in the tank:
  <br>
  ρ is the density of the water and g is the acceleration due to gravity
  <br>
+ Flow rate across the first fluid resistor and the
+pressures in the tank and accumulator:
+<br>
  
