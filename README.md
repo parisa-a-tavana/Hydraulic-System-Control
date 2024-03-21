@@ -57,7 +57,7 @@ Height of the water in the tank:
  <br>
   ρ is the density of the water and g is the acceleration due to gravity
  <br>
- ![Image 3](images/Pressure and the height.jpg)
+ ![Image 3](images/Pressur_Height.jpg)
 <br>
 <br>
  Flow rate across the first fluid resistor and the
