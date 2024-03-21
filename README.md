@@ -10,8 +10,10 @@ The hot water temperature, cold water flow rate, and temperature are fixed.
 The tank's initial temperature is between cold and hot water. 
 Tank and accumulator temperatures are equal and unaffected by accumulator water due to its negligible volume. The specific heat of tank water is constant and matches hot and cold water inputs.
 <br>
+<br>
 ![Image 1](images/system.jpg)
-ۀ <>M<>
+<br>
+<br>
 H1 = Height of the water in the tank
 <br>
 H2 = Height of the water in the accumulator
@@ -49,11 +51,16 @@ __Differential Equations__:
 <br>
 Height of the water in the tank:
 <br>
+![Image 2](images/Height of the water in the tank.jpg)
+<br>
  Pressure and the height in the tank:
  <br>
- ρ is the density of the water and g is the acceleration due to gravity
+  ρ is the density of the water and g is the acceleration due to gravity
  <br>
+ ![Image 3](images/Pressure and the height.jpg)
+<br>
+<br>
  Flow rate across the first fluid resistor and the
 pressures in the tank and accumulator:
 <br>
- 
+![Image 4](images/Flow rate resistor tank accumulator.jpg)
