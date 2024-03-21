@@ -51,7 +51,7 @@ __Differential Equations__:
 <br>
 Height of the water in the tank:
 <br>
-![Image 2](images/Height of the water in the tank.jpg)
+![Image 2](images/Height_Water.jpg)
 <br>
  Pressure and the height in the tank:
  <br>
@@ -63,4 +63,4 @@ Height of the water in the tank:
  Flow rate across the first fluid resistor and the
 pressures in the tank and accumulator:
 <br>
-![Image 4](images/Flow rate resistor tank accumulator.jpg)
+![Image 4](images/Flow_resistor_tank_accumulator.jpg)
