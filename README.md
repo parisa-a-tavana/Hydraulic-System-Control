@@ -4,6 +4,13 @@ In this project, we model a hydraulic system and design a controller to stabaliz
 <br>
 __System Description and Modeling__:
 <br>
+<br>
+The system is a single input-single output system. The input is the volumetric flow rate of the hot water going into the system and the output is the temperature of the water in the tank. 
+The hot water temperature, cold water flow rate, and temperature are fixed. 
+The tank's initial temperature is between cold and hot water. 
+Tank and accumulator temperatures are equal and unaffected by accumulator water due to its negligible volume. The specific heat of tank water is constant and matches hot and cold water inputs.
+<br>
+ۀ <>M<>
 H1 = Height of the water in the tank
 <br>
 H2 = Height of the water in the accumulator
@@ -37,8 +44,12 @@ Tc = Temperature of the input cold water
 T = Temperature of the water in the tank
 <br>
 <br>
-The system is a single input-single output system. The input is the volumetric flow rate of the hot water going into the system and the output is the temperature of the water in the tank. 
-The hot water temperature, cold water flow rate, and temperature are fixed. 
-The tank's initial temperature is between cold and hot water. 
-Tank and accumulator temperatures are equal and unaffected by accumulator water due to its negligible volume. The specific heat of tank water is constant and matches hot and cold water inputs.
-ۀ 
+__Differential Equations__:
+<br>
+Height of the water in the tank:
+<br>
+ Pressure and the height in the tank:
+ <br>
+ ρ is the density of the water and g is the acceleration due to gravity
+ <br>
+ 
