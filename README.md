@@ -85,3 +85,11 @@ Using the mentioned equations, we can get:
 ![Image 9](images/EQ3_Diff.jpg)
 <br>
 <br>
+__State Space__:
+<br>
+<br>
+we set T, P1, P2 as the state variables:
+<br>
+x1: T,   x2:P1,   x3:P2,  y: output
+<br>
+![Image 10](images/state_space.jpg)
