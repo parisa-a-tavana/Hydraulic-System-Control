@@ -93,3 +93,7 @@ we set T, P1, P2 as the state variables:
 x1: T,   x2:P1,   x3:P2,  y: output
 <br>
 ![Image 10](images/state_space.jpg)
+<br>
+Since we have a single input single output system with 1 equilibrium point, we use the equation below to finde the transfer function from the state matrices:
+<br>
+![Image 11](images/transfer_func.jpg)
