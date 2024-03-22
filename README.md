@@ -102,4 +102,36 @@ Now we plot the RootLocus and Bode diagram of the system:
 <br>
 <br>
 Gain Margin: $\infty$,  Phase Margin:96.1,  Band Width:0.013 Hz
+<br>
+<br>
+__Controller__:
+<br>
+<br>
+We design a lead lag controller:
 
+<br>
+Then we compare the system before and after the conteoller:
+<br>
+<br>
+As we can see, the rise and settling time decreased and the system became faster.
+<br>
+We plot the Root locus and the bode diagram of the conterolled system:
+<br>
+<br>
+Gain Margin: $\infty$,  Phase Margin:135.14,  Band Width:0.173 Hz
+<br>
+<br>
+__Distrurbance__:
+<br>
+<br>
+input: step function with 0.02 amplitude.
+<br>
+System without disturbance:
+<br>
+We add a white guassian noise :
+<br>
+<br>
+__Non linear Model__:
+<br>
+Now we use the original non-linear model of the system to check the performance of the controller:
+<br>
