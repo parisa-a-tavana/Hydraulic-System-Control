@@ -80,7 +80,7 @@ Using the mentioned equations, we can get:
 <br>
 ![Image 7](images/EQ1_Diff.jpg)
 <br>
-![Image 8](images/EQ2_Diff.jpg)
+![Image 8](images/EQ2_Differ.jpg)
 <br>
 ![Image 9](images/EQ3_Diff.jpg)
 <br>
