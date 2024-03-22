@@ -84,3 +84,4 @@ Using the mentioned equations, we can get:
 <br>
 ![Image 9](images/EQ3_Diff.jpg)
 <br>
+<br>
