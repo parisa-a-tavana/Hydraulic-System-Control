@@ -97,3 +97,9 @@ x1: T,   x2:P1,   x3:P2,  y: output
 Since we have a single input single output system with 1 equilibrium point, we use the equation below to finde the transfer function from the state matrices:
 <br>
 ![Image 11](images/transfer_func.jpg)
+<br>
+Now we plot the RootLocus and Bode diagram of the system:
+<br>
+<br>
+Gain Margin: $\infty$,  Phase Margin:96.1,  Band Width:0.013 Hz
+
