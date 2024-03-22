@@ -64,3 +64,14 @@ Height of the water in the tank:
 pressures in the tank and accumulator:
 <br>
 ![Image 4](images/Flow_resistor_tank_accumulator.jpg)
+<br>
+<br>
+The height of the
+water in the accumulator and the pressure in the accumulator:
+<br>
+![Image 5](images/Height_pressure_accumulator.jpg)
+<br>
+The pressure in the accumulator and the flow rate across the second fluid resistor:
+<br>
+![Image 6](images/Flowrate.jpg)
+<br>
