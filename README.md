@@ -66,25 +66,31 @@ Height of the water in the tank:
  Flow rate across the first fluid resistor and the
 pressures in the tank and accumulator:
 <br>
+
 ![Image 4](images/Flow_resistor_tank_accumulator.jpg)
 <br>
 <br>
 The height of the
 water in the accumulator and the pressure in the accumulator:
 <br>
+
 ![Image 5](images/Height_pressure_accumulator.jpg)
 <br>
 The pressure in the accumulator and the flow rate across the second fluid resistor:
 <br>
+
 ![Image 6](images/Flowrate.jpg)
 <br>
 <br>
 Using the mentioned equations, we can get:
 <br>
+
 ![Image 7](images/EQ1_Diff.jpg)
 <br>
+
 ![Image 8](images/EQ2_Differ.jpg)
 <br>
+
 ![Image 9](images/EQ3_Diff.jpg)
 <br>
 <br>
@@ -95,10 +101,12 @@ we set T, P1, P2 as the state variables:
 <br>
 x1: T,   x2:P1,   x3:P2,  y: output
 <br>
+
 ![Image 10](images/state_space.jpg)
 <br>
 Since we have a single input single output system with 1 equilibrium point, we use the equation below to finde the transfer function from the state matrices:
 <br>
+
 ![Image 11](images/transfer_func.jpg)
 <br>
 Now we plot the RootLocus and Bode diagram of the system:
